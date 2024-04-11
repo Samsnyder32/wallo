@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    
+
+}
+
+
+.container{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 38%;
+    
+    
+    
+}
+.nav-links {
+    
+    background-color: black;
+    color: greenyellow;
+    border-radius: 10px;
+   
+   
+ }
+ .nav-links a {
+    
+    padding: 15px;
+    color: greenyellow;
+    text-decoration: none;
+ }
+ .nav-links a:hover {
+    background-color: greenyellow;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 1px 1px 30px greenyellow;
+    transition-duration: 0.5s;
+ }
+ .login{
+    display: flex;
+    background-color: black;
+    color: greenyellow;
+    margin-right: 50%;
+ }
+ 
